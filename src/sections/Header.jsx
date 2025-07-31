@@ -41,7 +41,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/public/favicon.ico" width={40} height={55} alt="logo" />
+          <img src="/images/favicon.ico" width={40} height={55} alt="logo" />
         </a>
 
         <div
@@ -72,7 +72,7 @@ const Header = () => {
                     <div className="flex items-center justify-center ">
                       <img
                         className="mr-2"
-                        src="/public/favicon.ico"
+                        src="/images/favicon.ico"
                         width={60}
                         height={55}
                         alt="logo"
